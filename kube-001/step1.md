@@ -1,0 +1,1 @@
+kubectl get all `kubectl get all`{{excute}}
